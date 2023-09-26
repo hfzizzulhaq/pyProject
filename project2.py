@@ -21,6 +21,6 @@ if hutang <= 50000 :
 
 else :
     print('Saldo anda saat ini : ' + str(hutang))
-    print('Selamat anda selamat dari kemiskinan')
+    print('Selamat ada sedang dalam kemiskinan')
     print()
 
